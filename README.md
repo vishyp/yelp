@@ -2,6 +2,11 @@ This is a Yelp search app using the [Yelp API](http://developer.rottentomatoes.c
 
 Time spent: `14`
 
+### Caveats
+- There are no Auto Layout errors anywhere.. except when I go to Map / Filter view and then come back to the main table view, run time Auto Layout warnings pop up
+- Not satisfied with the animation of category & radius section expansions (though they work)
+- Not making good use of MVC pattern or the 5 communication models.
+
 ### Features
 
 #### Required
@@ -30,4 +35,6 @@ Time spent: `14`
 ### Walkthrough
 
 ![YelpVishy.gif]
+![Video Walkthrough](vishyp.github.com/yelp/YelpVishy.gif)
+
 
