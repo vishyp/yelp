@@ -1,6 +1,6 @@
 This is a Yelp search app using the [Yelp API](http://developer.rottentomatoes.com/docs/read/JSON).
 
-Time spent: `14`
+Time spent: `10`
 
 ### Caveats
 - There are no Auto Layout errors anywhere.. except when I go to Map / Filter view and then come back to the main table view, run time Auto Layout warnings pop up
