@@ -35,6 +35,6 @@ Time spent: `14`
 ### Walkthrough
 
 ![YelpVishy.gif]
-![Video Walkthrough](vishyp.github.com/yelp/YelpVishy.gif)
+![Video Walkthrough](YelpVishy.gif)
 
 
